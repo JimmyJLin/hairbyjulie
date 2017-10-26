@@ -3,35 +3,4 @@
 // Main basic stylings
 body {
 
-  // fonts family & color starts
-  font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', 'Helvetica', Arial, 'Lucida Grande', sans-serif;
-  color: $main_font_color;
-  // fonts family & color ends
-
-
-  // global buttton styling starts
-  .btn{
-    background-color: $main_button_color;
-    color: $button_font_color;
-  }
-  .btn:hover{
-    background-color: $secondary_button_color;
-    color: $button_font_color;
-  }
-  // global buttton styling ends
-
-
-  // global a tag styling starts
-  a{
-  text-decoration: none;
-  color: $secondary_font_color;
-  }
-  a:hover{
-    text-decoration: none;
-  }
-  a:hover{
-    cursor: pointer;
-  }
-  // global a tag styling ends
-
 }
