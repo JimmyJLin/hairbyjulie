@@ -3,4 +3,12 @@ $( document ).ready(() =>{
   // JQUERY GOES HERE!!
 
   $(".button-collapse").sideNav();
+
+  $('.single-item').slick({
+    autoplay: true,
+    dots: true,
+    swipeToSlide: true,
+    accessibility: true,
+    arrows: false
+  });
 })
