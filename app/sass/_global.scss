@@ -3,4 +3,12 @@
 // Main basic stylings
 body {
 
+  // Themes css
+  nav, .page-footer {
+    background: $g_p_background;
+  }
+
+  #contact_me, #banner{
+    background-color: $g_p_background;
+  }
 }
