@@ -3,6 +3,15 @@
 // Main basic stylings
 body {
 
+  #sidenav-overlay{
+    // display: none;
+    z-index: 996;
+  }
+
+  .h_divider{
+    border-bottom: solid;
+  }
+
   // Themes css
   nav, .page-footer {
     background: $g_p_background;
@@ -10,11 +19,14 @@ body {
 
   #banner{
     height: 100%;
-    padding: 35px 0;
 
     #title {
       text-align: center;
       font-size: 3em;
+    }
+
+    .color_container{
+      padding: 35px 0;
     }
 
   }
