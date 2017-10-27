@@ -18,6 +18,7 @@ $( document ).ready(() =>{
     autoplay: true,
     dots: true,
     pauseOnHover: true,
+    swipeToSlide: true,
     verticalSwiping: true,
     autoplaySpeed: 5000,
     arrows: false
