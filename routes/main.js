@@ -10,7 +10,7 @@ main.get('/', (req, res) => {
 });
 
 main.get('/services', (req, res) => {
-  res.render('pages/services');
+  res.render('pages/services', { data });
 });
 
 main.get('/appointment', (req, res) => {

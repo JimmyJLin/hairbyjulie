@@ -4,8 +4,100 @@
 
   <div id="banner">
     <div className="color_container">
-      <div id="title">Services</div>
+      <div id="title">Service Menu</div>
     </div>
+  </div>
+
+  <div id="service_menu">
+
+    <h6>* Prices and Duration are starting point quotes and they can change for many reasons.</h6>
+
+    <ul class="collapsible popout" data-collapsible="accordion">
+      <li>
+        <div class="collapsible-header">
+          <i class="material-icons">content_cut</i>
+          Haircuts
+        </div>
+        <div class="collapsible-body">
+          <div class="row">
+            <% data.cuts.forEach((el) => { %>
+                <div class="col s12 m4 l3">
+                  <div class="card">
+                    <div class="card-image">
+                      <img src='<%= el.img %>'>
+                      <a href="/appointment" class="btn-floating halfway-fab waves-effect waves-light green"><i class="material-icons">schedule</i></a>
+                    </div>
+                    <div class="card-content">
+                      <span class="card-title"><%= el.name %></span>
+                      <p><%= el.content %></p>
+                    </div>
+                    <div class="card-action">
+                      <p id="price">$<%= el.price %></p>
+                    </div>
+                  </div>
+                </div>
+            <% }) %>
+          </div>
+        </div>
+      </li>
+
+      <li>
+        <div class="collapsible-header">
+          <i class="material-icons">invert_colors</i>
+          Color
+        </div>
+        <div class="collapsible-body">
+          <div class="row">
+            <% data.colors.forEach((el) => { %>
+                <div class="col s12 m4 l3">
+                  <div class="card">
+                    <div class="card-image">
+                      <img src='<%= el.img %>'>
+                      <a href="/appointment" class="btn-floating halfway-fab waves-effect waves-light green"><i class="material-icons">schedule</i></a>
+                    </div>
+                    <div class="card-content">
+                      <span class="card-title"><%= el.name %></span>
+                      <p><%= el.content %></p>
+                    </div>
+                    <div class="card-action">
+                      <p id="price">$<%= el.price %></p>
+                    </div>
+                  </div>
+                </div>
+            <% }) %>
+          </div>
+        </div>
+      </li>
+
+      <li>
+        <div class="collapsible-header">
+          <i class="material-icons">palette</i>
+          Highlight
+        </div>
+        <div class="collapsible-body">
+          <div class="row">
+            <% data.highlights.forEach((el) => { %>
+                <div class="col s12 m4 l3">
+                  <div class="card">
+                    <div class="card-image">
+                      <img src='<%= el.img %>'>
+                      <a href="/appointment" class="btn-floating halfway-fab waves-effect waves-light green"><i class="material-icons">schedule</i></a>
+                    </div>
+                    <div class="card-content">
+                      <span class="card-title"><%= el.name %></span>
+                      <p><%= el.content %></p>
+                    </div>
+                    <div class="card-action">
+                      <p id="price">$<%= el.price %></p>
+                    </div>
+                  </div>
+                </div>
+            <% }) %>
+          </div>
+        </div>
+      </li>
+    </ul>
+
   </div>
 
   <!-- partials -->

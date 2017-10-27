@@ -1,0 +1,31 @@
+#services{
+
+
+  h6{
+    padding: 50px 25px;
+
+  }
+  #service_menu{
+    padding-bottom: 75px;
+  }
+  
+  .collapsible{
+
+    padding: 0px 3%;
+
+    .card-title{
+      color: black;
+    }
+
+    .card-content{
+      height: 260px;
+      width: auto;
+    }
+
+    #price{
+      text-align: center;
+      font-size: 1.25em;
+    }
+
+  }
+}

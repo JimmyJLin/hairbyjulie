@@ -3,56 +3,179 @@
     {
       "id": "0",
       "reviewers": "Debbra K.",
-      "contents": "Julie Lin is a superstar. I have been her client for 13 years and can say with 100% honesty that I have never been disappointed. I have extremely straight and thick hair...Julie has mastered the texture to always make me look like a rock star, long, short or medium. We've done it all! People comment about my haircut all the time. Julie is kind, professional and the most talented hair stylist I've ever seen. She listens to her clients and always produces the desired effect!",
-      "stars": 5
+      "contents": "Julie Lin is a superstar. I have been her client for 13 years and can say with 100% honesty that I have never been disappointed. I have extremely straight and thick hair...Julie has mastered the texture to always make me look like a rock star, long, short or medium. We've done it all! People comment about my haircut all the time. Julie is kind, professional and the most talented hair stylist I've ever seen. She listens to her clients and always produces the desired effect!"
     },
     {
       "id": "1",
       "reviewers": "Chanel V.",
-      "contents": "Julie is a master at what she does making sure that the haircolor and cut she gives you go well with you face shape/ skin tone, grows out nicely while also making sure to keep the health of your hair. I refuse to let anyone else touch my hair knowing that I can always trust her to take my scattered ideas and turn them into a beautiful end result.",
-      "stars": 5
+      "contents": "Julie is a master at what she does making sure that the haircolor and cut she gives you go well with you face shape/ skin tone, grows out nicely while also making sure to keep the health of your hair. I refuse to let anyone else touch my hair knowing that I can always trust her to take my scattered ideas and turn them into a beautiful end result."
     },
     {
       "id": "2",
       "reviewers": "Kelly S.",
-      "contents": "Amazing. Julie is profession and always gives a great haircut! Highly recommend.",
-      "stars": 5
+      "contents": "Amazing. Julie is profession and always gives a great haircut! Highly recommend."
     },
     {
       "id": "3",
       "reviewers": "Samantha L.",
-      "contents": "Julie is my girl. She provides fantastic cuts, creates beautiful color, and you can tell that she loves (and is very talented at) what she does. I love that she's not afraid to gently guide my choices--always to a better, more flattering result.",
-      "stars": 5
+      "contents": "Julie is my girl. She provides fantastic cuts, creates beautiful color, and you can tell that she loves (and is very talented at) what she does. I love that she's not afraid to gently guide my choices--always to a better, more flattering result."
     },
     {
       "id": "4",
       "reviewers": "Rebecca B.",
-      "contents": "Julie is amazing! I fell upon her accidentally on Saturday while trying to find an emergency hair cut (we've all been there!) and what a great accident. I have gone to her ever since.",
-      "stars": 5
+      "contents": "Julie is amazing! I fell upon her accidentally on Saturday while trying to find an emergency hair cut (we've all been there!) and what a great accident. I have gone to her ever since."
     },
     {
       "id": "5",
       "reviewers": "Elizabeth N.",
-      "contents": "Extraordinary ability to listen then execute. If Julie suggests it, take her suggestion. Fabulous, natural color and cut every time!",
-      "stars": 5
+      "contents": "Extraordinary ability to listen then execute. If Julie suggests it, take her suggestion. Fabulous, natural color and cut every time!"
     },
     {
       "id": "6",
       "reviewers": "Mackenzie R.",
-      "contents": "Julie Lin is a master of hair color. Her keen eye for detail allows her to blend color so natural that you will look like your best possible self. Julie is an excellent stylist -- her haircuts look great and will hold their form as they grow in. I highly recommend her services.",
-      "stars": 5
+      "contents": "Julie Lin is a master of hair color. Her keen eye for detail allows her to blend color so natural that you will look like your best possible self. Julie is an excellent stylist -- her haircuts look great and will hold their form as they grow in. I highly recommend her services."
     },
     {
       "id": "7",
       "reviewers": "Joel S.",
-      "contents": "She is the best. Cuts and color for 3 generations of my family. Also, great with little kids",
-      "stars": 5
+      "contents": "She is the best. Cuts and color for 3 generations of my family. Also, great with little kids"
     },
     {
       "id": "8",
       "reviewers": "Kari A.",
-      "contents": "Extraordinary color and precision hair cuts. Julie is a true artist. I have always been extremely happy with any cut or color I have gotten from her.",
-      "stars": 5
+      "contents": "Extraordinary color and precision hair cuts. Julie is a true artist. I have always been extremely happy with any cut or color I have gotten from her."
+    }
+  ],
+  "cuts": [
+    {
+      "id": "1",
+      "name": "Bang Trim",
+      "content": "Don't take the scissor to your hair, allow me to maintain your bang in between haircuts.",
+      "img": "/images/services/cut/bang_trime.jpg",
+      "price": "10.00"
+    },
+    {
+      "id": "2",
+      "name": "Women's Blow-Dry",
+      "content": "Professional styling and finishing service.",
+      "img": "/images/services/cut/blow_dry.jpg",
+      "price": "50.00"
+    },
+    {
+      "id": "3",
+      "name": "Women's Haircut",
+      "content": "A customized haircut designed by your stylist to fit your individual style and preferences",
+      "img": "/images/services/cut/women_cut.jpg",
+      "price": "110.00"
+    },
+    {
+      "id": "4",
+      "name": "Men's Haircut",
+      "content": "A customized haircut designed by your stylist to fit your individual style and preferences.",
+      "img": "/images/services/cut/men_cut.png",
+      "price": "100.00"
+    },
+    {
+      "id": "5",
+      "name": "Relaxer - Keratin Treatment",
+      "content": "Blowout that conditions, relaxes and eliminates frizz from hair for up-to four month.",
+      "img": "/images/services/cut/bkt.jpg",
+      "price": "300.00"
+    },
+    {
+      "id": "6",
+      "name": "Conditioning Treatment",
+      "content": "A formula that is designed to restore proteins and moisture in the hair, it will last up to 4 weeks.",
+      "img": "/images/services/cut/conditioning_treatment.jpg",
+      "price": "60.00"
+    },
+    {
+      "id": "7",
+      "name": "Protein Conditioning Treatment",
+      "content": "It's design for overly process hair, especially blonde. It restore the protein after highlighting process.",
+      "img": "/images/services/cut/protein_treatment.jpg",
+      "price": "80.00"
+    },
+    {
+      "id": "8",
+      "name": "Complimentary consultation",
+      "content": "Any questions about your hair or just wanted to interview me before hand, please come in and have a chat with me.",
+      "img": "/images/services/cut/consultation.jpg",
+      "price": "0.00"
+    }
+  ],
+  "colors":[
+    {
+      "id": "1",
+      "name": "Color",
+      "content": "Is the process of using a dye or tint to change the color of your hair to cover up the grey, or for fun.",
+      "img": "/images/services/color/color.jpg",
+      "price": "110.00"
+    },
+    {
+      "id": "2",
+      "name": "Color and Blow-Dry",
+      "content": "All over permanent or semi permanent color and professional styling service.",
+      "img": "/images/services/color/color_blowdry.jpg",
+      "price": "150.00"
+    },
+    {
+      "id": "3",
+      "name": "Color and Haircut",
+      "content": "All over permanent or semi permanent color and customized haircut service.",
+      "img": "/images/services/color/color_cut.jpg",
+      "price": "220.00"
+    },
+    {
+      "id": "4",
+      "name": "Color and Partial Highlight",
+      "content": "All over permanent or semi permanent color with partial highlights covering approximately 1/2 of the head.",
+      "img": "/images/services/color/color_all.jpg",
+      "price": "220.00"
+    },
+    {
+      "id": "5",
+      "name": "Color, Partial Highlight, Haircut and Blow-Dry",
+      "content": "All over permanent or semi permanent color with partial highlights covering approximately 1/2 of the head with customized haircut and style.",
+      "img": "/images/services/color/color_all.jpg",
+      "price": "320.00"
+    }
+  ],
+  "highlights": [
+    {
+      "id": "1",
+      "name": "Highlight",
+      "content": "A highlight creates a contrast and brightening effect throughout hair. Half head effect $180, whole head $210.",
+      "img": "/images/services/highlight/highlight.jpg",
+      "price": "180.00"
+    },
+    {
+      "id": "2",
+      "name": "Ombré and haircut",
+      "content": "Using special coloring technique to make the end of the hair either lighter or different shade of color from the root plus haircut and professional finish.",
+      "img": "/images/services/highlight/ombre_cut.jpg",
+      "price": "330.00"
+    },
+    {
+      "id": "3",
+      "name": "Ombré",
+      "content": "Using special coloring technique to make the end of the hair either lighter or different shade of color from the root.",
+      "img": "/images/services/highlight/ombre_cut.jpg",
+      "price": "220.00"
+    },
+    {
+      "id": "4",
+      "name": "Highlight and Blow-Dry",
+      "content": "A highlight creates a contrast and brightening effect throughout hair with professional finish.",
+      "img": "/images/services/highlight/highlight_blowdry.jpg",
+      "price": "230.00"
+    },
+    {
+      "id": "5",
+      "name": "Highlight, Haircut and Blow-Dry",
+      "content": "A highlight creates a contrast and brightening effect throughout hair plus haircut and professional finish. Half head effect plus haircut $290, whole head plus haircut $320.",
+      "img": "/images/services/highlight/hight_cut_blowdry.jpg",
+      "price": "290.00"
     }
   ]
 }
