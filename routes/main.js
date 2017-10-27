@@ -13,18 +13,6 @@ main.get('/services', (req, res) => {
   res.render('pages/services');
 });
 
-main.get('/about', (req, res) => {
-  res.render('pages/about');
-});
-
-main.get('/review', (req, res) => {
-  res.render('pages/review');
-});
-
-main.get('/contact', (req, res) => {
-  res.render('pages/contact');
-});
-
 main.get('/appointment', (req, res) => {
   res.render('pages/appointment');
 });
