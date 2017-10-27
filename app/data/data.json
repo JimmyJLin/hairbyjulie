@@ -1,0 +1,58 @@
+{
+  "reviews": [
+    {
+      "id": "0",
+      "reviewers": "Debbra K.",
+      "contents": "Julie Lin is a superstar. I have been her client for 13 years and can say with 100% honesty that I have never been disappointed. I have extremely straight and thick hair...Julie has mastered the texture to always make me look like a rock star, long, short or medium. We've done it all! People comment about my haircut all the time. Julie is kind, professional and the most talented hair stylist I've ever seen. She listens to her clients and always produces the desired effect!",
+      "stars": 5
+    },
+    {
+      "id": "1",
+      "reviewers": "Chanel V.",
+      "contents": "Julie is a master at what she does making sure that the haircolor and cut she gives you go well with you face shape/ skin tone, grows out nicely while also making sure to keep the health of your hair. I refuse to let anyone else touch my hair knowing that I can always trust her to take my scattered ideas and turn them into a beautiful end result.",
+      "stars": 5
+    },
+    {
+      "id": "2",
+      "reviewers": "Kelly S.",
+      "contents": "Amazing. Julie is profession and always gives a great haircut! Highly recommend.",
+      "stars": 5
+    },
+    {
+      "id": "3",
+      "reviewers": "Samantha L.",
+      "contents": "Julie is my girl. She provides fantastic cuts, creates beautiful color, and you can tell that she loves (and is very talented at) what she does. I love that she's not afraid to gently guide my choices--always to a better, more flattering result.",
+      "stars": 5
+    },
+    {
+      "id": "4",
+      "reviewers": "Rebecca B.",
+      "contents": "Julie is amazing! I fell upon her accidentally on Saturday while trying to find an emergency hair cut (we've all been there!) and what a great accident. I have gone to her ever since.",
+      "stars": 5
+    },
+    {
+      "id": "5",
+      "reviewers": "Elizabeth N.",
+      "contents": "Extraordinary ability to listen then execute. If Julie suggests it, take her suggestion. Fabulous, natural color and cut every time!",
+      "stars": 5
+    },
+    {
+      "id": "6",
+      "reviewers": "Mackenzie R.",
+      "contents": "Julie Lin is a master of hair color. Her keen eye for detail allows her to blend color so natural that you will look like your best possible self. Julie is an excellent stylist -- her haircuts look great and will hold their form as they grow in. I highly recommend her services.",
+      "stars": 5
+    },
+    {
+      "id": "7",
+      "reviewers": "Joel S.",
+      "contents": "She is the best. Cuts and color for 3 generations of my family. Also, great with little kids",
+      "stars": 5
+    },
+    {
+      "id": "8",
+      "reviewers": "Kari A.",
+      "contents": "Extraordinary color and precision hair cuts. Julie is a true artist. I have always been extremely happy with any cut or color I have gotten from her.",
+      "stars": 5
+    }
+  ]
+}

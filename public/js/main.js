@@ -4,11 +4,23 @@ $( document ).ready(() =>{
 
   $(".button-collapse").sideNav();
 
-  $('.single-item').slick({
+  $('#main_slider').slick({
     autoplay: true,
     dots: true,
     swipeToSlide: true,
     accessibility: true,
+    autoplaySpeed: 2000,
+    cssEase: 'linear',
     arrows: false
   });
+
+  $('#v_slider').slick({
+    autoplay: true,
+    dots: true,
+    pauseOnHover: true,
+    verticalSwiping: true,
+    autoplaySpeed: 5000,
+    arrows: false
+  });
+
 })

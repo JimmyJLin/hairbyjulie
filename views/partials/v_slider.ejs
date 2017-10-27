@@ -1,0 +1,16 @@
+<div id="v_slider" class="container single-item">
+  <% data.reviews.forEach((el) => { %>
+    <div id="review" id='<%= el.contents %>'>
+      <p> <%= el.contents %> </p>
+      <h6><%= el.reviewers %></h6>
+      <i class="material-icons">star</i>
+      <i class="material-icons">star</i>
+      <i class="material-icons">star</i>
+      <i class="material-icons">star</i>
+      <i class="material-icons">star</i>
+      <div id="div_container">
+        <p>--------</p>
+      </div>
+    </div>
+  <% }) %>
+</div>
