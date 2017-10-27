@@ -17,10 +17,10 @@ $( document ).ready(() =>{
   $('#v_slider').slick({
     autoplay: true,
     dots: true,
-    pauseOnHover: true,
     swipeToSlide: true,
-    verticalSwiping: true,
+    accessibility: true,
     autoplaySpeed: 5000,
+    cssEase: 'linear',
     arrows: false
   });
 
