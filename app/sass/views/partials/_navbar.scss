@@ -5,4 +5,20 @@
 // nav_bar stylings
 #nav_bar{
 
+  #logo{
+    padding-top: 5px;
+    width: auto;
+    height: 60px;
+
+    @include small{
+      height: 50px;
+    }
+    @include medium{
+      height: 50px;
+    }
+    @include large{
+      height: 50px;
+    }
+  }
+
 }
