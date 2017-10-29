@@ -5,5 +5,14 @@
 // styling for footer
 #footer{
 
+  td, th{
+    padding: 10px 5px;
+  }
+
+  #border{
+    padding-bottom: 10px;
+    border-bottom: 1px solid #d0d0d0;
+  }
+
 
 }
